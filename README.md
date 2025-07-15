@@ -2,9 +2,6 @@
 
 ![AutoSec Dashboard](https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
-## 🛡️ Overview
-
-AutoSec is a sophisticated multi-agent reinforcement learning (RL) system designed to simulate, detect, analyze, and respond to cybersecurity threats in real-time. This interactive dashboard provides comprehensive visualization and monitoring capabilities for AI-driven cybersecurity training environments.
 
 ## ✨ Features
 
